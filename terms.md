@@ -9,7 +9,8 @@ _Nos reservamos el derecho de actualizar, modificar o cambiar nuestros términos
 <summary><b>RESOLUCIÓN DEL PROYECTO</b></summary>
       
 Al interactuar con este proyecto, ya sea actuando como anfitrión que ejecuta el código o como un usuario habitual, usted acepta de manera completa los términos especificados en este acuerdo y se compromete a cumplir con las condiciones de la licencia del código correspondiente. De no ser así, se le solicita que interrumpa de inmediato el uso del proyecto.
-`Aceptación de Términos:` Al ingresar y utilizar este proyecto, usted reconoce y acepta adherirse a la totalidad de los términos y condiciones estipulados en este acuerdo.
+
+1. `Aceptación de Términos:` Al ingresar y utilizar este proyecto, usted reconoce y acepta adherirse a la totalidad de los términos y condiciones estipulados en este acuerdo.
 
 2.	`Roles de Uso:` Este proyecto puede ser utilizado tanto por los anfitriones de ejecución del código como por usuarios comunes. Ambos están sujetos a las disposiciones de este acuerdo y deben respetar la licencia del código subyacente.
 
